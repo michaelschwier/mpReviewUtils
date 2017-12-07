@@ -12,3 +12,6 @@ The subfolder "mpReviewUtilsTests" contains unit tests for the library. Run them
 
 ## Requirements
 - Python 3.6
+
+## Build Status
+[![Build Status](https://travis-ci.org/michaelschwier/mpReviewUtils.svg?branch=master)](https://travis-ci.org/michaelschwier/mpReviewUtils)
