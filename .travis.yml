@@ -4,5 +4,10 @@ python:
 cache: pip
 install:
   - pip install numpy
+  - pip install SimpleITK
 script:
   - python -m unittest discover -p "*_test.py" -v
+notifications:
+  email:
+    on_success: change # default: change
+    on_failure: always # default: always
