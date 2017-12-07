@@ -1,3 +1,5 @@
+Build Status: [![](https://travis-ci.org/michaelschwier/mpReviewUtils.svg?branch=master)](https://travis-ci.org/michaelschwier/mpReviewUtils)
+
 # mpReviewUtils
 
 Utility library to parse mpReview-style directories and return a record for each segementation. 
@@ -12,6 +14,3 @@ The subfolder "mpReviewUtilsTests" contains unit tests for the library. Run them
 
 ## Requirements
 - Python 3.6
-
-## Build Status
-[![Build Status](https://travis-ci.org/michaelschwier/mpReviewUtils.svg?branch=master)](https://travis-ci.org/michaelschwier/mpReviewUtils)
